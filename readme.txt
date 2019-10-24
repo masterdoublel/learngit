@@ -4,4 +4,4 @@ Git has mutable index called stags
 Git tracks changes of files
 hello
 world
-Creating a new branch is quick and simple
+DCreating a new branch is quick and simple
